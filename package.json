@@ -1,7 +1,7 @@
 {
-  "name": "firebase-genkit",
+  "name": "genkit-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template for Genkit",
   "main": "lib/index.js",
   "scripts": {
     "start": "node lib/index.js",
@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luis Eduardo <lperezp.dev>",
   "license": "MIT",
   "dependencies": {
     "@genkit-ai/googleai": "^0.9.4",
