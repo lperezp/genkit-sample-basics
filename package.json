@@ -15,12 +15,13 @@
   "author": "Luis Eduardo <lperezp.dev>",
   "license": "MIT",
   "dependencies": {
-    "@genkit-ai/googleai": "^0.9.4",
+    "@genkit-ai/googleai": "1.0.5",
     "dotenv": "^16.4.5",
-    "genkit": "^0.9.4"
+    "genkit": "1.0.5"
   },
   "devDependencies": {
     "tsx": "^4.19.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "genkit-cli": "1.0.5"
   }
 }
